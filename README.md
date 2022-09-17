@@ -7,3 +7,7 @@ Esmat Sahak
 **Activity 2**
 
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity2.PNG)
+
+**Activity 3**
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity3.PNG)
