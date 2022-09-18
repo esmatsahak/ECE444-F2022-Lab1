@@ -27,6 +27,7 @@ Commands run:
 2) git rebase develop
 3) git checkout develop
 4) git rebase rebase
+
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity5_1.PNG)
 
 Commit history of develop branch:
