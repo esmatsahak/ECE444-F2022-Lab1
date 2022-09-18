@@ -36,3 +36,10 @@ Commit history of develop branch:
 **Activity 6**
 
 https://github.com/esmatsahak/ECE444-F2022-EP
+
+**Activity 7**
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity7_1.PNG)
+
+Rebase Commands:
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity7_2.PNG)
