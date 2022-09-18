@@ -43,3 +43,10 @@ https://github.com/esmatsahak/ECE444-F2022-EP
 
 Rebase Commands:
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity7_2.PNG)
+
+**Activity 8**
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity8_1.PNG)
+
+Rebase Commands:
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab1/blob/main/images/Activity8_2.PNG)
